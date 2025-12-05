@@ -265,7 +265,7 @@ We welcome collaboration and appreciate your contribution to Headshot AI. If you
 If you want to contribute to the codebase make sure you create a new branch and open a pull request that points to `dev`.
 
 ## Resources and Support
-
+test build fix
 - Help Email: support@astria.ai
 
 ## License
